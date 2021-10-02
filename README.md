@@ -2,14 +2,14 @@
 
 ---
 
-### 1. Link download:
+### # 1. Link download:
 
 Nhấp vào [đây](https://code.visualstudio.com/Download), sau đó chọn phiên bản phù hợp với hệ điều hành trong máy của bạn, tải về và cài đặt.
 **Đối với máy MacOS, làm theo hướng dẫn tại [trang setup dành cho Mac](https://code.visualstudio.com/docs/setup/mac)**.
 
 **Lưu ý dành cho các bạn dùng Windows 7 trở xuống, kiểm tra 32bit hoặc 64bit bằng cách nhấn tổ hợp phím `Windows + R`, nhập `dxdiag` sau đó chọn `Yes` khi được hỏi. Trong cửa sổ hiện lên có dòng Operating System, chú ý xem nó để 32bit hay 64bit rồi mới chọn phiên bản VSCode phù hợp.**
 
-### 2. Cài đặt extensions:
+### # 2. Cài đặt extensions:
 
 Nhấn tổ hợp phím `Ctrl + Shift + X` để mở thanh extensions.
 Tại đây, các bạn có thể thấy các extensions đã cài đặt trong mục `INSTALLED`.
@@ -38,7 +38,7 @@ Một số extensions hay ho muốn chia sẻ cho ae (**không bắt buộc**):
 
 - `Material Icon Theme`: Thêm icon cho file/thư mục, giúp chúng ta dễ nhận dạng code hơn, không cần phải nhìn cái đuôi loằng ngoằng.
 
-### 3. Mẹo & Thủ thuật sử dụng VSCode:
+### # 3. Mẹo & Thủ thuật sử dụng VSCode:
 
 1. Mọi thao tác trong VSCode đều có thể thực hiện bằng lệnh mà không cần mất công tìm kiếm, chỉ cần nhấn tổ hợp `Ctrl + Shift + P`, trong hộp thoại `Command Palette` hiện ra, gõ thử `view zoom in` sau đó nhấn `Enter` để thấy điều kì diệu 🪄🪄.
 
