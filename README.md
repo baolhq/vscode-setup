@@ -1,11 +1,10 @@
-# Cài đặt & cấu hình Visual Studio Code 🧑‍💻
+# Cài đặt & cấu hình Visual Studio Code 🧑‍💻🧑‍💻🧑‍💻
 
 ---
 
-### 1. Link download VSCode:
+### 1. Link download:
 
 Nhấp vào [đây](https://code.visualstudio.com/Download), sau đó chọn phiên bản phù hợp với hệ điều hành trong máy của bạn, tải về và cài đặt.
-
 **Đối với máy MacOS, làm theo hướng dẫn tại [trang setup dành cho Mac](https://code.visualstudio.com/docs/setup/mac)**.
 
 **Lưu ý dành cho các bạn dùng Windows 7 trở xuống, kiểm tra 32bit hoặc 64bit bằng cách nhấn tổ hợp phím `Windows + R`, nhập `dxdiag` sau đó chọn `Yes` khi được hỏi. Trong cửa sổ hiện lên có dòng Operating System, chú ý xem nó để 32bit hay 64bit rồi mới chọn phiên bản VSCode phù hợp.**
